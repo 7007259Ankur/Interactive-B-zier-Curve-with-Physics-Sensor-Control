@@ -100,7 +100,6 @@ Euler integration is used for simplicity and performance.
 ## 🎮 Interaction Controls
 
 * **Mouse Move:** Pull the rope (desktop)
-* **Touch Drag:** Pull the rope (mobile/tablet)
 * **Automatic hover mode:** Rope follows cursor even without dragging
 
 The rope endpoints (**P₀** and **P₃**) remain anchored, while the middle control points respond dynamically.
